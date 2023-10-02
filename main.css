@@ -39,6 +39,10 @@ button{
     color: #fff;
 }
 
+body{
+    background-color: #070708d0;
+}
+
 #botaoCancelar {
     background-color: red;
 }
